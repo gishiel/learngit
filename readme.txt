@@ -5,4 +5,4 @@ Git tracks changes of files.
 There are dump question.
 Creating a new branch is quickly AND simple.
 Test --no-ff
-Test no commit merge
+Test no commit merge.
