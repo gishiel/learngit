@@ -8,3 +8,4 @@ Test --no-ff
 Test no commit merge.
 Test1.
 Test2.
+Test3.
