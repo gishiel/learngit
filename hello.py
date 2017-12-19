@@ -1,2 +1,2 @@
 hello world
-/usr/bin/env
+UTF-8
