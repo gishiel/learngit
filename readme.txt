@@ -7,3 +7,4 @@ Creating a new branch is quickly AND simple.
 Test --no-ff
 Test no commit merge.
 Test1.
+Test2.
